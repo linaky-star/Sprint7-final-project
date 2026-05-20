@@ -1,2 +1,16 @@
 # Sprint7-final-project
-Proyecto de análisis de datos para ConnectaTel enfocado en la identificación de segmentos de clientes según edad y nivel de uso. Incluye limpieza y exploración de datos, detección de outliers, creación de variables categóricas y visualizaciones para generar recomendaciones estratégicas sobre planes y comportamiento de usuarios.
+# ConnectaTel - Análisis de Clientes
+
+Proyecto de análisis de datos enfocado en segmentación de clientes, detección de outliers y análisis de patrones de uso para generar recomendaciones estratégicas para ConnectaTel.
+
+## Herramientas utilizadas
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+## Objetivos
+- Limpiar y explorar datos
+- Identificar segmentos de clientes
+- Analizar patrones de uso
+- Generar recomendaciones de negocio
